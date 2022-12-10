@@ -6,7 +6,7 @@ var config = {
         "Hey, Senorita",
         "Wishing you the Happiest Birthday",
         "May this be the brightest day",
-        "Happy 29th Birthday🎉🎉🎉🎉🎉",
+        "Happy 28th Birthday🎉🎉🎉🎉🎉",
         "Make a wish :D",
         "Yayyyyyyyyyyyyyyyyyyyyy",
         "Sunooooo...",
